@@ -3,9 +3,7 @@ export default function ehUmCpf(campo){
     const cpf = campo.value.replace(/\.|-/g, '')
     //o "/ tanana /g" tenta buscar de maneira global esses itens, para assim conseguir retirar com o replace
     if(validaNumerorepetidos(cpf) || validaPrimeiroDigito(cpf) || validaSegundoDigito(cpf)){
-        console.log('esse cpf não existe')
-    }else{
-        console.log('existe!')
+        campo.setCustomValidity('Esse CPF não é valido')
     }
 }
 

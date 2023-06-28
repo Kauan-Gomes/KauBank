@@ -10,19 +10,19 @@
 <hr>
 
 ## Formulário e suas mensagens de erro caso input esteja inválido
-<div style="display: flex; height: 420px;justify-content: space-around;">
+<div style="display: flex; height: 220px;justify-content: space-around;">
 <p > <img src="img/formulario1.png"></p>
 <p > <img src="img/formulario2.png"></p>
 </div>
 
 ## Reconhecimento Facial 
-<div style="display: flex; height: 420px;justify-content: space-around;">
+<div style="display: flex; height: 220px;justify-content: space-around;">
 <p > <img src="img/reconhecimentoFacial.png"></p>
 <p > <img src="img/reconhecimentoFacial2.png"></p>
 </div>
 
 ## Etapa finalizada
-<div style="display: flex; height: 320px;justify-content: space-around;">
+<div style="display: flex; height: 220px;justify-content: space-around;">
 <p > <img src="img/finalizado.png"></p>
 </div>
 
